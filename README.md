@@ -1,0 +1,1 @@
+Angular 4 + Redux + Webpack + Typescript up-to-date example.
